@@ -1,5 +1,2 @@
-i sometimes have the urge to make something stupid, then i do it
-
-you can not email me (yet)
-
-(fancy stuff coming soonTM)
+i make things! (occasionally)  
+i'll add some interesting stuff to this readme soon... but for now you just have this.  
