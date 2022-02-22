@@ -1,4 +1,4 @@
-## Hello 👋
+# Hello 👋
 i'm a student that wants to learn programming as a hobby and potentially go into it as a profession.  
 currently, i know a good bit of Python, but i would like to branch out and learn c#, javascript, and java.  
 i currently do not have a contact email set up. check back later!  
